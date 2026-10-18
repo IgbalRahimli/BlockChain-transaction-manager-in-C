@@ -1,7 +1,7 @@
 # BlockChain-transaction-manager-in-C
 Simple campus transaction manager made in C based on a custom blockchain. Interactive in terminal and features EATCoin balance transfers, file persistence, and gambling mini-games.
 
-Written in C. Requires `gcc` or any standard C compiler (C99 or later).
+Written in C. Requires `gcc` or any standard C compiler.
 
 * To build use:  
 `gcc main.c -o eatcoin`
